@@ -19,3 +19,4 @@ def patients(count):
             "kind": "inpatient" if random.random() > 0.7 else "outpatient",
             "procedures": (pn for pn in PROCEDURE_NAMES if random.random() > 0.5)
         }
+    
