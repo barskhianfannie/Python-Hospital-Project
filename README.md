@@ -12,3 +12,11 @@ The Pasadena Community Hospital is updating their patient management system and 
 * Periodically, the billing department needs to generate patient summary reports showing the patient id, insurance info, inpatient/outpatiend kind, total billed amount, and the patient liability.
 
 To test whether the software is running correctly, the hospital asked you to create unit tests and an integration test that adds patients and their procedures and then generates a patient summary report. For this, you are asked to use their test data for 100 patients, which you can get by calling patients(100).
+
+Aspect                       | Points
+---------------------------- | :----:
+Operation (50)               | 50
+Organization (50)            | 80
+Applicatio of concepts (100) | 70
+Tests (50)                   | 30
+TOTAL                        | 230
